@@ -10,7 +10,7 @@
     <!-- ===============================================-->
     <!--    Document Title-->
     <!-- ===============================================-->
-    <title>traffico | Landing, Responsive &amp; Business Templatee</title>
+    <title>traffic</title>
 
 
     <!-- ===============================================-->
@@ -58,7 +58,7 @@
                         <li class="nav-item px-2" data-anchor="data-anchor"><a class="nav-link"
                                 href="#faq">Faq</a></li>
                     </ul>
-                    <form class="ps-lg-5"><a class="btn btn-primary order-1 order-lg-0" href="#!">CONTACT US</a>
+                    <form class="ps-lg-5"><a class="btn btn-primary order-1 order-lg-0" href="/create">FORM</a>
                     </form>
                 </div>
             </div>
